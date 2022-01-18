@@ -1,10 +1,10 @@
 👋 Hi, I’m Rayhan!
 
-Below are the two noteworthy projects I'm most proud of: [Prozody](https://www.prozody.com/) and [MyChapter](
+Below are the two noteworthy projects I'm most proud of: [Prozody](https://www.prozody.com/) and [MyChapter](https://github.com/rayhanmemon/myChapter)
 
 ## Prozody ([View Here](https://www.prozody.com/))
 
-### *A web-based audio editor that enables authors to narrate, edit and master their own audiobooks at home.*
+### **A web-based audio editor that enables authors to narrate, edit and master their own audiobooks at home.**
 
 This is a private project, as I built it as a side business and incubated through the renowned [Next Canada](https://www.nextcanada.com/) accelerator. 
 
