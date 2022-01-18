@@ -1,5 +1,5 @@
-### 👋 Hi, I’m Rayhan!
-### Below are descriptions of the two noteworthy projects I'm most proud of: [Prozody](https://www.prozody.com/) and [MyChapter](https://github.com/rayhanmemon/myChapter)
+### 👋 Hey there, I’m Rayhan.
+### Below are descriptions of the two projects I'm most proud of: [Prozody](https://www.prozody.com/) and [MyChapter](https://github.com/rayhanmemon/myChapter)
 
 ## Prozody ([View Here](https://www.prozody.com/))
 
@@ -30,7 +30,17 @@
 
 ## MyChapter ([View Here](https://github.com/rayhanmemon/myChapter))
 
-This is an
+### **Background:**
+- A mobile app for Greek organizations (fraternities and sororities) to track membership and event statistics
+- I built this app over the span of 6 months while in my final year of university
+- Aside from members of my own Chapter, the app was organically downloaded by 14 other organizations
+- As code became deprecated, I decided not to invest the time needed to maintain the app and took it down from the Google Play Store and Apple App Store
+
+### **Key Features:**
+- Attendance at events automatically tracked by detecting device's geolocation within a radius of event address 
+- Tracking of key statistics for each member (Dues Paid, Events Attend, Amount Fundraised, etc.)
+- Admin dashboard for chapter executives to view aggregate statistics
+- Facebook-style 'News Feed' for dispensing sensitive information
 
 <!---
 rayhanmemon/rayhanmemon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
