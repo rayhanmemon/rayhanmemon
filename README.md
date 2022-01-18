@@ -16,9 +16,11 @@ Overview of Technologies Used:
   - Functions as a text-based audio editor (users edit their audio like editing text)
 - Transcription Microservice
   - Used for real-time transcription of an author's narration while they are recording
-  - Python/Django server with WebSocket connection to front-end for bidirectional streaming of audio and transcription
+  - Python/Django server with WebSocket connection to front-end for bidirectional streaming
+  - Streams audio to Google Cloud's Speech-to-Text API and 
 - Back-End
   - Node.js/Express server
+  - Used for reading from and writing to MongoDB and AWS S3 for file/data storage
   - Task Queuing with Bull and Caching with Redis
   - Seperate worker for handling CPU-intensive audio processing with FFMPEG
 - Databases
