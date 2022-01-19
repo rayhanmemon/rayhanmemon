@@ -11,8 +11,9 @@
 
 - Front-End
   - Built in React with material UI components
-  - Features a custom PDF reader so users can scroll through their manuscript while they narrate
   - Functions as a text-based audio editor (users edit their audio like editing text)
+  - Detects repeated sentences and suggests edits to the user using Euclidean Distance of transcribed strings
+  - Features a custom PDF reader so users can scroll through their manuscript while they narrate
 - Transcription Microservice
   - Used for real-time transcription of an author's narration while they are recording
   - Python/Django server with WebSocket connection to front-end for bidirectional streaming
