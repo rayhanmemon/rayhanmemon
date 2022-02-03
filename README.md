@@ -1,4 +1,4 @@
-### 👋 Hey there, I’m Rayhan.
+### 👋 Hey there! I’m Rayhan.
 ### Below are descriptions of the two projects I'm most proud of: [Prozody](https://www.prozody.com/) and [MyChapter](https://github.com/rayhanmemon/myChapter)
 
 ## [Prozody](https://www.prozody.com/) (Feb. 2021 - Present)
