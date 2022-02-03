@@ -1,8 +1,7 @@
 ### 👋 Hey there! I’m Rayhan.
 ### Below are descriptions of the two projects I'm most proud of: [Prozody](https://www.prozody.com/) and [MyChapter](https://github.com/rayhanmemon/myChapter)
 
-## [Prozody](https://www.prozody.com/) 
-### (Feb. 2021 - Present)
+## [Prozody](https://www.prozody.com/) (Feb. 2021 - Present)
 
 ### **Background:**
 - A web-based audio editor that enables authors to narrate, edit and master their own audiobooks at home.
@@ -29,8 +28,7 @@
   - AWS S3 for audio file storage
   - Auth0 for authentication
 
-## [MyChapter](https://github.com/rayhanmemon/myChapter) 
-### (Aug. 2018 - Feb. 2019)
+## [MyChapter](https://github.com/rayhanmemon/myChapter) (Aug. 2018 - Feb. 2019)
 
 ### **Background:**
 - A mobile app for Greek organizations (fraternities and sororities) to track membership and event statistics
